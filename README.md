@@ -1,3 +1,7 @@
+This project is deployed on AWS Amplify https://master.d1cvuz3f5gwmer.amplifyapp.com/
+
+This project is created using IntelliJ Webstorm
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
